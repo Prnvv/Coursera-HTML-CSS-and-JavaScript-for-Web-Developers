@@ -2,4 +2,4 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-# To see the output [CLICK HERE](https://prnvv.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/module-2/index.html)
+# To see the output [CLICK HERE](https://prnvv.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/module2-solution/index.html)
